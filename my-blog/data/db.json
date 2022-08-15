@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "I Created A Blog",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore, nesciunt necessitatibus. Quibusdam quas sed eius excepturi sequi cum hic asperiores cumque. Numquam corrupti, labore voluptatum rem quae quia? Molestiae, asperiores?",
+      "author": "Bayo",
+      "id": 1
+    },
+    {
+      "title": "I Posted On My Blog",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore, nesciunt necessitatibus. Quibusdam quas sed eius excepturi sequi cum hic asperiores cumque. Numquam corrupti, labore voluptatum rem quae quia? Molestiae, asperiores?",
+      "author": "Seye",
+      "id": 2
+    },
+    {
+      "title": "I Uploaded My Blog",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore, nesciunt necessitatibus. Quibusdam quas sed eius excepturi sequi cum hic asperiores cumque. Numquam corrupti, labore voluptatum rem quae quia? Molestiae, asperiores?",
+      "author": "Paul",
+      "id": 3
+    },
+    {
+      "title": "I'm wondering what I should do next",
+      "body": "Any advice would be very welcome",
+      "author": "Seye",
+      "id": 4
+    }
+  ]
+}
